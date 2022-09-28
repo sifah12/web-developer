@@ -1,0 +1,103 @@
+html,body{
+    margin: 0px;
+    padding: 0px;
+}   
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(236, 236, 250);
+    height: 70px;
+}
+.navbar ol{
+    list-style: none; 
+    display: flex;
+}
+.navbar a{
+padding: 30px;
+text-decoration: none;
+color: black;
+}
+
+body {
+background-image: url(images/photo-\ computer.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.navbar ol li :hover{
+
+    background-color:#1598b9;
+    border-bottom-right-radius: 30px;
+
+}
+    .sign{
+        display: flex;
+        justify-content: space-between;
+        background-color: rgb(236, 236, 250);
+        height: 70px;
+    }.sign ol{
+        list-style: none; 
+        display: flex;
+    }
+    .sign a{
+    padding: 30px;
+    text-decoration: none;
+    color: black;
+    }
+
+    .forms{ 
+        
+        
+         margin: 150px; 
+     padding-right: 1200px;     
+   
+    }
+
+    .forms form{
+
+        margin: 8px;
+        border-radius: 10px;
+       padding: 10px;
+       margin-left: 400px;
+    }
+
+
+    .ligan{
+        display: flex;
+        justify-content: space-between;
+        background-color: rgb(236, 236, 250);
+        height: 70px;
+        
+    }
+    
+    .ligan ol{
+        list-style: none; 
+        display: flex;
+        padding: 20px;
+    }
+
+    .ligan a{
+    padding: 30px;
+    text-decoration: none;
+    color: black;
+    }
+
+    .liigan { 
+        
+        
+         margin: 150px; 
+     padding-right: 1200px;     
+   
+    }
+
+    .Liigan form{
+
+        margin: 80px;
+        border-radius: 10px;
+       padding: 10px;
+       margin-right: 500px;
+    }
+
+
+
+
+
